@@ -1,0 +1,59 @@
+/*aprendendo essa porra
+line-height
+*/
+h1 {
+    margin-left: 20px;
+    color: rgb(140, 76, 8);   
+    font-size: 28px;
+    font-family: Helvetica;
+    line-height: 1.5px;
+}
+
+h2 {
+    margin-left: 20px;
+    color: rgb(140, 76, 8); 
+    font-family: Helvetica;
+    font-size: 20px;
+ 
+}
+
+p {
+    margin-left: 20px;
+    color: black;
+}
+
+body {
+    width: 60%;
+    margin: 0 auto;
+    padding: 2% 0;
+    
+    background-color: white;
+}
+
+html {
+    background-color: #ddd;
+}
+
+main {
+    color: white;
+}
+
+section {
+    margin-top: 0px;
+    padding-bottom: 5px;
+    border-top: solid 1px gray;
+
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+
+.pCompetencias {
+    margin-left: 70px;
+
+}
+
+.pEmpresas {
+    margin-left: 70px;
+}
+    
